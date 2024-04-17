@@ -1,4 +1,4 @@
-# CMPT 459 Course Project Final : Refining Credit Card Fraud Detection with Human In The Loop Approach - Aditya Kulkarni, Johann Tin Tsin Fong
+# CMPT 459 Course Project Final : Refining Credit Card Fraud Detection with Human In The Loop Approach
 
 ## Prerequisites
 Before running this notebook, ensure you have installed the following:
